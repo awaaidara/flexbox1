@@ -1,0 +1,43 @@
+.hero{
+    background-image: url('https://res.cloudinary.com/tf-lab/image/upload/restaurant/757c10c6-e5b8-4eaa-a613-813cf31b33b8/2d5bce56-bd6d-4727-8f71-2f6355bf8be0.jpg');
+    width: 99%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    display: flex ; 
+    justify-content: center;
+    align-items: center;
+}
+.hero button{
+    
+    margin-left: 40px;
+}
+.menu card{
+    margin-bottom: 30px;
+
+}
+
+.prix{
+    margin: 10px;
+    font-weight: bold;
+    margin-left: 85px;
+
+}
+#btn{
+    margin-left: 50px;
+}
+#bnd{
+    margin-left: 50px;
+}
+#bnc{
+    margin-left: 50px;
+}
+.ccd{
+ width: 90px;
+}
+h1{
+    text-align: center;
+}
+.navbar{
+
+}
